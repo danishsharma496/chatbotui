@@ -8,7 +8,7 @@ This frontend application consists of a parent component (`App.js`) and two chil
 
 - **Description:** Parent component responsible for rendering the entire application.
 - **Functionality:** Initializes the chatbot and product components, fetches initial data, and manages state.
-- **Deployment:** [Deployment Link]([https://your-deployment-link.com](https://stately-concha-19ec10.netlify.app))
+ 
 
 ### 2. `Chatbot.jsx`
 
@@ -23,9 +23,7 @@ This frontend application consists of a parent component (`App.js`) and two chil
 - **Deployment:** N/A
 
  
-## Deployment
-
-The frontend application is deployed on [Deployment Link]([https://your-deployment-link.com](https://stately-concha-19ec10.netlify.app)).
+ 
 
 ## Technologies Used
 
